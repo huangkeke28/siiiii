@@ -1,3 +1,6 @@
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+import org.w3c.dom.ls.LSOutput;
+
 public class Person {
 //    public int age = 18;//属性
 //    public String name = "张三";  //字段 属性 成员方法
@@ -38,6 +41,8 @@ public class Person {
 // public void setName(String name){
 //        this.name = name;
 //    }
-
+{
+    System.out.println("huidegengjiangjiu nishuow");
+}
 
 }
